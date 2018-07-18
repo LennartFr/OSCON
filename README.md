@@ -6,3 +6,4 @@
 <p><A HREF="http://localhost:4200/">Decentralized Energy</a><p>
   <a href="http://composer-playground.mybluemix.net/">Hyperledger Composer</a><p>
   <a href="https://vehicle-manufacture-uneradicative-insolence.mybluemix.net/tutorial">The IBM Blockchain Cloud</a> <p> 
+  <a href="https://www.ibm.com/blockchain/use-cases/">IBM Bockchain Use Cases</a>
